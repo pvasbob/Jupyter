@@ -1,0 +1,12 @@
+> shift + Enter
+# execute current cell. 
+
+
+ command mode and edit mode: Esc
+
+ In command mode:
+ a : create cell above
+ b : create cell below
+ c : copy the cell
+ v : paste the copied cell below
+
